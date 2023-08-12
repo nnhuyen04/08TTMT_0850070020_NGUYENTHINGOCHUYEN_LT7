@@ -1,0 +1,4 @@
+#Tue Aug 01 22:45:16 ICT 2023
+base.0=C\:\\src\\pro\\Flutter-Login-Pag\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
